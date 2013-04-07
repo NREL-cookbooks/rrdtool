@@ -1,4 +1,4 @@
-name             'RRDtool'
+name             'rrdtool'
 maintainer       'NREL'
 maintainer_email 'nicholas.long@nrel.gov'
 license          'LGPL'

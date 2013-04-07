@@ -1,4 +1,4 @@
-RRDtool
+rrdtool
 =
 
-RRDtool package installation recipe
+rrdtool package installation recipe
