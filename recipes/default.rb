@@ -2,7 +2,7 @@ case node['platform_family']
 
   when "debian"
   when "rhel","fedora"
-    package "rrdtool" do
+    package "rrdtool-devel" do
       action :install
     end
   when "windows"
